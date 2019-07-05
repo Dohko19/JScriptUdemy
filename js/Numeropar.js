@@ -14,7 +14,7 @@ if(num >= 0)
 }
 else
 {
-    document.write("Propociona un Valir entero mayor a 0 <br>");
+    document.write("Propociona un Valor entero mayor a 0 <br>");
    
 }
 document.write("<br>El valor proporcionado fue: "+ num);
