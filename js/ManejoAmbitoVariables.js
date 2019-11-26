@@ -15,5 +15,5 @@ function saludarLocal(parametro) {
 
 function saludarGlobal() {
 	alert("Hola " + nombre);
-	window.location="http://tiendaonline.sw/";
+	window.location="http://tiendaonline.com/";
 }
